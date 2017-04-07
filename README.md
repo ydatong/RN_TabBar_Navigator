@@ -1,0 +1,2 @@
+# RN_TabBar_Navigator
+ReactNative中TabBarIOS和NavigatorIOS嵌套使用
